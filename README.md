@@ -9,11 +9,7 @@ A simple, responsive, and user-friendly calculator built using **ReactJS**. This
 - Clear/reset functionality
 - Responsive design for desktop and mobile
 - Built with clean and modular React code
-
-## 🖥️ Demo
-
-![Calculator Screenshot](https://drive.google.com/file/d/1FLZj76_Q2i3BOjhaj2Fl-5lBwd1Qrcws/view?usp=sharing) 
-
+  
 ## 🛠️ Technologies Used
 
 - ReactJS (Functional Components + Hooks)
